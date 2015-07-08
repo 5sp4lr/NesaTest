@@ -1,0 +1,197 @@
+	.headingprofile { 
+	    font-weight: bold;
+	    font-size: large;
+	    color:#666666;
+	    size:4;
+	}
+
+	.subheadingprofile { 
+	    color:#CC0001;
+	    font-weight: bold;
+	    padding-left:15px;
+	}
+
+	.profile3 {     
+		
+		font-family: Arial; 
+		font-size: 10pt;
+		align: center;
+		width: 91%;
+		border-collapse: collapse; 
+		border: 0;
+	}
+
+	.profile10 { 
+		border-collapse:collapse;
+		width:100%;	  
+		border:0;
+		cellpadding:0;	 
+	}
+
+	.profile11 a{
+		text-align:center;
+	}
+
+
+
+	.profile12 {     
+		
+		font-family: Arial; 
+		font-size: 9pt;
+		width: 100%;
+		border-collapse: collapse; 
+		border: 0;
+		display:inline;
+	}
+	.im2caption{
+		color:#FF0000;
+	    font-weight: bold;
+		margin-left:40px;
+		width:100px;
+		padding-top:5px;
+	}
+
+	.image3{
+		margin-left:130px;
+		margin-top:-79px;
+	}
+	.im3caption{
+		color:#FF0000;
+	    font-weight: bold;
+		margin-left:140px;
+		margin-top:-15px;
+		display:inline-block;
+		width:110px;
+	}
+	.image4{
+		margin-left:260px;
+		margin-top: -79px;
+	}
+	.im4caption{
+		color:#FF0000;
+	    font-weight: bold;
+		margin-left:270px;
+		margin-top:-15px;
+		width:110px;
+	}
+	.image5{
+		margin-left:390px;
+		margin-top: -79px;
+	}
+	.im5caption{
+		color:#FF0000;
+	    font-weight: bold;
+		margin-left:400px;
+		margin-top:-13px;
+		width:110px;
+	}
+	.profile14{
+		color:#FF0000;
+		font-size:20;
+		text-align:center;
+		font-weight: bold;
+		margin-top:20px;
+		margin-bottom:20px;
+		display:inline-block;
+		width:510px;
+	}
+
+	.profile20{
+		margin-bottom:20px;
+	}
+	.para1 {
+		width:339;
+		rowspan:2;
+	}
+	.readmore{
+		font color:#FF0000;
+	}
+	.space{
+		padding: 100px;
+	}
+	.mainpar{
+		padding-right:170px;
+		padding-top: 30px;
+		padding-left: 15px;
+	}
+	.vidmain{
+		width:150px;
+		margin-top:-120px;
+		margin-left:400px;
+	}
+	.sec1{
+		display: inline-block;
+	}
+	.vid{
+		font-size: 8pt;
+	}
+	.profile12 .list ul{
+		display: inline-block;
+	}
+
+
+	.L2{
+		margin-left:-30px;
+		width:165px;
+	}
+
+	.list{
+		margin-top:-14px;
+		margin-left:20px;
+		width:165;
+	}
+
+	.list2{
+		margin-left: 200px;
+		margin-top: -150px;
+	}
+
+	.object1{
+		border:0;
+		width:550;
+		height:303;
+	}
+	.object2{
+		border:0;
+		width:144;
+		height:115;
+	}
+
+	.profile20 {
+		width:166;
+		margin-left:180px;
+		margin-top: -150px;
+	}
+
+	.image1 {
+		 width:150;
+		 height:155; 
+		 align:right;
+		 border:0;
+	}
+
+	.image2 {
+		  border:0;
+		   width:120;
+		   height:79;
+	}
+
+	.image3 {
+		  border:0;
+		   width:119;
+		   height:79;
+	}
+
+	.imcaption { 
+	    color:#FF0000;
+	    font-weight: bold;
+	}
+
+
+
+
+
+
+
+
+
