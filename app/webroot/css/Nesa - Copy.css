@@ -396,54 +396,28 @@ a {
 	font-family:Arial; 
 	font-size:10pt; 
 	width:80%;  
-	text-align:left;
-
+	text-align:left;	 
 }
 
 .input { 
 	width:250;	 
 }
-.labelname{
-	display:inline-block;
-}
 
-
-
-#name{
-	margin-left:10px;
-	width:240px;
-}
-
-#divphone{
-	margin-left:23px;
-}
 #Phone{
-	margin-left:10px;
-	width:240px;	
+	padding-left:23px;	
 }
 
-#divemail{
-	margin-left:25px;
-}
 #Email{
-	margin-left:10px;
-	width:240px;
+	padding-left:27px;
 }
 
-#labeldetails{
-	margin-top:-70px;
-}
-#divrequestdetails{
-	margin-left:-38px;
-}
 #RDet{
-	margin-left:10px;
+	margin-left:-30px;
 }
 
 .Form1{
 	margin-bottom: 20px;
 }
-
 
 .field { 
 	
@@ -474,7 +448,7 @@ a {
 
 
 #subres{
-	margin-left:192px;
+	margin-left:185px;
 }
 
 .mainpar{
@@ -1029,36 +1003,21 @@ a {
   .Form1{
   	margin-left: -100px;
   }
-  #name{
-  	width:150px;
-  	margin-left: 5px;
-  }
 
   #Phone{
   	margin-left: -20px;
-  	width:150px;
   }
 
   #Email{
-  	margin-left: -22px;
-  	width:150px;
+  	margin-left: -25px;
   }
 
-#labeldetails{
-	margin-left:60px;
-	width:200px;
-}
   #RDet{
-  	padding-left: 30px; 
-  	margin-left:60px;	
+  	padding-left: 30px;
   }
   #subres{
-  	margin-left: 0px;
+  	margin-left: 80px;
   }
-
-  .labelname{
-  	margin-left:30px;
-}
 
  .profile5{
  	width:2px;
@@ -1078,7 +1037,7 @@ textarea {
 }
 .formhead{
 	text-align: center;
-	padding-left:5px;
+	padding-left:20px;
 	margin-bottom:40px;
 }
 .headingprofile{

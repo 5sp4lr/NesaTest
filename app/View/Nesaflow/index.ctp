@@ -1,1 +1,1 @@
-<?php echo $this->element('Main');?>
+<?php echo $this->element('Main2');?>
